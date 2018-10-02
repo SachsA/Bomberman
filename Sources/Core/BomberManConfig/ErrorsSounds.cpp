@@ -1,0 +1,16 @@
+/*
+** EPITECH PROJECT, 2018
+** cpp_indie_studio
+** File description:
+** ErrorsSounds.cpp for cpp_indie_studio
+*/
+
+#include "BomberManConfig.hpp"
+
+ErrorsSounds::ErrorsSounds(std::ostream &os, const std::string &message) throw()
+	: Errors(os, "SoundError -> " + message)
+{
+}
+
+ErrorsSounds::~ErrorsSounds(void) throw()
+{}
