@@ -33,7 +33,7 @@ Bomberman is a very well known game, where you control a character that have to 
 </p>
  
  
-<h3>Game command</h3>
+<h3>Player commands</h3>
 <ul style="list-style-type:none">
   <h4>Player One</h4>
   <li>Arrow keys: Move your character.</li>
@@ -48,6 +48,8 @@ Bomberman is a very well known game, where you control a character that have to 
   <li>Y G H J: Move your character.</li>
   <li>T: Place a bomb.</li>
 </ul>
+
+<h3>Game commands</h3>
 <ul style="list-style-type:none">
   <li>'ESCAPE': To pause the game.</li>
   <li>'ESCAPE' again: To return to the menu.</li>
