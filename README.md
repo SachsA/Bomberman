@@ -48,21 +48,21 @@ The **Bomberman** is composed with two main parts : the back developped in **C++
 
 #### Player commands
   ##### Player One
-  ***Arrow keys***: Move your character.
+   ***Arrow keys***: Move your character.
   
-  ***Shift***: Place a bomb.
+   ***Shift***: Place a bomb.
   ##### Player Two
-  ***Z Q S D***: Move your character.
+   ***Z Q S D***: Move your character.
   
-  ***A***: Place a bomb.
+   ***A***: Place a bomb.
   ##### Player Three
-  ***O K L M***: Move your character.
+   ***O K L M***: Move your character.
   
-  ***I***: Place a bomb.
+   ***I***: Place a bomb.
   ##### Player Four
-  ***Y G H J***: Move your character.
+   ***Y G H J***: Move your character.
   
-  ***T***: Place a bomb.
+   ***T***: Place a bomb.
 
 #### Game commands
   ***ESCAPE***: To pause the game.
