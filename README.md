@@ -1,11 +1,11 @@
 # BOMBERMAN
 
 ###### The Bomberman is a project where we had to make a bomberman in 3D.
-**Bomberman** is a very well known game, where you control a character that have to kills the other players on the map, you can play in multiplayer or against an AI.
+[Bomberman](https://en.wikipedia.org/wiki/Bomberman) is a very well known game, where you control a character that have to kills the other players on the map, you can play in multiplayer or against an AI.
 
 The main feature of this version of the Bomberman is that it's in 3D. You can play up to four players on the same PC. Or against up to four AIs.
 
-The [Bomberman]() is composed with two main parts : the back developped in **C++** manage all the menus and the game engine; and the front developped with the **SFML (in C++ too)** display the game.
+The **Bomberman** is composed with two main parts : the back developped in **C++** manage all the menus and the game engine; and the front developped with the **SFML (in C++ too)** display the game.
  
 ### Program compilation and launching:
   ##### Linux:
