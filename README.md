@@ -1,7 +1,7 @@
 # BOMBERMAN
 
-###### The Bomberman is a project where we had to make a bomberman in 3D.
-[Bomberman](https://en.wikipedia.org/wiki/Bomberman) is a very well known game, where you control a character that have to kills the other players on the map, you can play in multiplayer or against an AI.
+###### The Bomberman is a project where we had to remake a bomberman in 3D.
+[Bomberman](https://en.wikipedia.org/wiki/Bomberman) is a well known game, where you control a character that have to kills the other players on the map, you can play in multiplayer or against AIs.
 
 The main feature of this version of the Bomberman is that it's in 3D. You can play up to four players on the same PC. Or against up to four AIs.
 
@@ -72,5 +72,5 @@ The **Bomberman** is composed with two main parts : the back developped in **C++
  #### Project realised by:
 - **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
 - **Antoine Pelletant : [antoine.pelletant@epitech.eu](https://github.com/yabou)**
-- **Kellian Cipierre : [kellian.cipierre@cipierre.eu]()**
+- **Kellian Cipierre : [kellian.cipierre@cipierre.eu](https://github.com/K6PIR)**
 - **Martin Cotoni : [martin.cotoni@epitech.eu](https://github.com/cotonim)**
