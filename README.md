@@ -70,7 +70,7 @@ The **Bomberman** is composed with two main parts : the back developped in **C++
 
 
  #### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Alexandre Sachs : [alexandre.sachs@outlook.fr](https://github.com/SachsA)**
 - **Antoine Pelletant : [antoine.pelletant@epitech.eu](https://github.com/yabou)**
 - **Kellian Cipierre : [kellian.cipierre@cipierre.eu](https://github.com/K6PIR)**
 - **Martin Cotoni : [martin.cotoni@epitech.eu](https://github.com/cotonim)**
